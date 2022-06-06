@@ -5,13 +5,7 @@ By: [Yang Trista Cao]`<ycao95@umd.edu>`, [Anna Sotnikova] `<asotniko@umd.edu>`, 
 As part of a study of stereotypes in English Language Models, we collected and annotated a dataset of people’s perceptions on different social groups in the United States. We call this dataset the **Crowdsourced U.S. Stereotypes Measured across Agency, Beliefs, and Communion**; what follows below is the [datasheet](https://arxiv.org/abs/1803.09010) describing this data. If you use this dataset, please acknowledge it by citing the original paper:
 
 ```
-@inproceedings{cao2019toward,
-  title={Toward Gender-Inclusive Coreference Resolution},
-  author={Yang Trista Cao and Hal Daum{\'e}},
-  booktitle={Proceedings of the Conference of
-             the Association for Computational Linguistics (ACL)},
-  year={2020},
-  note={abs/1910.13913}
+@inproceedings{}
 }
 ```
 
