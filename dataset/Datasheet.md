@@ -2,7 +2,7 @@
 
 By: [Yang Trista Cao]`<ycao95@umd.edu>`, [Anna Sotnikova] `<asotniko@umd.edu>`, [Hal Daumé III](http://hal3.name) `<hal3@umd.edu>`, [Rachel Rudinger]`<rudinger@umd.edu>` and [Linda Zou]`<lxzou@umd.edu>`
 
-As part of a study of stereotypes in English Language Models, we collected and annotated a dataset of people’s perceptions on different social groups in the United States. We call this dataset the **Crowdsourced U.S. Stereotypes Measured across Agency, Beliefs, and Communion**; what follows below is the [datasheet](https://arxiv.org/abs/1803.09010) describing this data. If you use this dataset, please acknowledge it by citing the original paper:
+As part of a study of stereotypes in English Language Models, we collected and annotated a dataset of people’s perceptions on different social groups in the United States. We call this dataset the **Crowdsourced U.S. Stereotypes Measured across Agency, Beliefs, and Communion**; what follows below is the [datasheet](https://arxiv.org/abs/1803.09010) describing this data. If you use this dataset, please acknowledge it by citing [the original paper](https://arxiv.org/abs/2206.11684):
 
 ```
 @inproceedings{}
